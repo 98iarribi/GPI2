@@ -1,0 +1,126 @@
+/home/alumno/Escritorio/Shopping/src/java/sonphse/cart/Cart.java:18:	CommentRequired:	Field comments are required
+/home/alumno/Escritorio/Shopping/src/java/sonphse/cart/Cart.java:19:	CommentRequired:	Field comments are required
+/home/alumno/Escritorio/Shopping/src/java/sonphse/cart/Cart.java:21:	CommentRequired:	Public method and constructor comments are required
+/home/alumno/Escritorio/Shopping/src/java/sonphse/cart/Cart.java:24:	CommentRequired:	Public method and constructor comments are required
+/home/alumno/Escritorio/Shopping/src/java/sonphse/cart/Cart.java:76:	CollapsibleIfStatements:	These nested if statements could be combined
+/home/alumno/Escritorio/Shopping/src/java/sonphse/cart/Cart.java:82:	CommentRequired:	Public method and constructor comments are required
+/home/alumno/Escritorio/Shopping/src/java/sonphse/cart/Item.java:16:	CommentRequired:	Field comments are required
+/home/alumno/Escritorio/Shopping/src/java/sonphse/cart/Item.java:17:	CommentRequired:	Field comments are required
+/home/alumno/Escritorio/Shopping/src/java/sonphse/cart/Item.java:19:	CommentRequired:	Public method and constructor comments are required
+/home/alumno/Escritorio/Shopping/src/java/sonphse/cart/Item.java:22:	CommentRequired:	Public method and constructor comments are required
+/home/alumno/Escritorio/Shopping/src/java/sonphse/cart/Item.java:55:	CommentRequired:	Public method and constructor comments are required
+/home/alumno/Escritorio/Shopping/src/java/sonphse/mobile/MobileDAO.java:23:	CommentRequired:	Field comments are required
+/home/alumno/Escritorio/Shopping/src/java/sonphse/mobile/MobileDAO.java:23:	CommentDefaultAccessModifier:	To avoid mistakes add a comment at the beginning of the list field if you want a default access modifier
+/home/alumno/Escritorio/Shopping/src/java/sonphse/mobile/MobileDAO.java:25:	CommentRequired:	Public method and constructor comments are required
+/home/alumno/Escritorio/Shopping/src/java/sonphse/mobile/MobileDAO.java:67:	CommentRequired:	Public method and constructor comments are required
+/home/alumno/Escritorio/Shopping/src/java/sonphse/mobile/MobileDAO.java:109:	CommentRequired:	Public method and constructor comments are required
+/home/alumno/Escritorio/Shopping/src/java/sonphse/mobile/MobileDAO.java:135:	CommentRequired:	Public method and constructor comments are required
+/home/alumno/Escritorio/Shopping/src/java/sonphse/mobile/MobileDAO.java:165:	CommentRequired:	Public method and constructor comments are required
+/home/alumno/Escritorio/Shopping/src/java/sonphse/mobile/MobileDAO.java:198:	CommentRequired:	Public method and constructor comments are required
+/home/alumno/Escritorio/Shopping/src/java/sonphse/mobile/MobileDAO.java:232:	IfStmtsMustUseBraces:	Avoid using if statements without curly braces
+/home/alumno/Escritorio/Shopping/src/java/sonphse/mobile/MobileDAO.java:233:	IfStmtsMustUseBraces:	Avoid using if statements without curly braces
+/home/alumno/Escritorio/Shopping/src/java/sonphse/mobile/MobileDAO.java:234:	IfStmtsMustUseBraces:	Avoid using if statements without curly braces
+/home/alumno/Escritorio/Shopping/src/java/sonphse/mobile/MobileDAO.java:239:	CommentRequired:	Public method and constructor comments are required
+/home/alumno/Escritorio/Shopping/src/java/sonphse/mobile/MobileDAO.java:262:	IfStmtsMustUseBraces:	Avoid using if statements without curly braces
+/home/alumno/Escritorio/Shopping/src/java/sonphse/mobile/MobileDAO.java:263:	IfStmtsMustUseBraces:	Avoid using if statements without curly braces
+/home/alumno/Escritorio/Shopping/src/java/sonphse/mobile/MobileDAO.java:264:	IfStmtsMustUseBraces:	Avoid using if statements without curly braces
+/home/alumno/Escritorio/Shopping/src/java/sonphse/mobile/MobileDAO.java:269:	CommentRequired:	Public method and constructor comments are required
+/home/alumno/Escritorio/Shopping/src/java/sonphse/mobile/MobileDTO.java:15:	CommentRequired:	Field comments are required
+/home/alumno/Escritorio/Shopping/src/java/sonphse/mobile/MobileDTO.java:16:	CommentRequired:	Field comments are required
+/home/alumno/Escritorio/Shopping/src/java/sonphse/mobile/MobileDTO.java:17:	CommentRequired:	Field comments are required
+/home/alumno/Escritorio/Shopping/src/java/sonphse/mobile/MobileDTO.java:18:	CommentRequired:	Field comments are required
+/home/alumno/Escritorio/Shopping/src/java/sonphse/mobile/MobileDTO.java:19:	CommentRequired:	Field comments are required
+/home/alumno/Escritorio/Shopping/src/java/sonphse/mobile/MobileDTO.java:20:	CommentRequired:	Field comments are required
+/home/alumno/Escritorio/Shopping/src/java/sonphse/mobile/MobileDTO.java:21:	CommentRequired:	Field comments are required
+/home/alumno/Escritorio/Shopping/src/java/sonphse/mobile/MobileDTO.java:23:	CommentRequired:	Public method and constructor comments are required
+/home/alumno/Escritorio/Shopping/src/java/sonphse/mobile/MobileDTO.java:26:	CommentRequired:	Public method and constructor comments are required
+/home/alumno/Escritorio/Shopping/src/java/sonphse/mobile/MobileInsertError.java:15:	CommentRequired:	Field comments are required
+/home/alumno/Escritorio/Shopping/src/java/sonphse/mobile/MobileInsertError.java:16:	CommentRequired:	Field comments are required
+/home/alumno/Escritorio/Shopping/src/java/sonphse/mobile/MobileInsertError.java:17:	CommentRequired:	Field comments are required
+/home/alumno/Escritorio/Shopping/src/java/sonphse/mobile/MobileInsertError.java:18:	CommentRequired:	Field comments are required
+/home/alumno/Escritorio/Shopping/src/java/sonphse/mobile/MobileInsertError.java:19:	CommentRequired:	Field comments are required
+/home/alumno/Escritorio/Shopping/src/java/sonphse/mobile/MobileInsertError.java:20:	CommentRequired:	Field comments are required
+/home/alumno/Escritorio/Shopping/src/java/sonphse/mobile/MobileInsertError.java:21:	CommentRequired:	Field comments are required
+/home/alumno/Escritorio/Shopping/src/java/sonphse/mobile/MobileInsertError.java:23:	CommentRequired:	Public method and constructor comments are required
+/home/alumno/Escritorio/Shopping/src/java/sonphse/mobile/MobileInsertError.java:26:	CommentRequired:	Public method and constructor comments are required
+/home/alumno/Escritorio/Shopping/src/java/sonphse/mobile/MobileSearchUserError.java:15:	CommentRequired:	Field comments are required
+/home/alumno/Escritorio/Shopping/src/java/sonphse/mobile/MobileSearchUserError.java:16:	CommentRequired:	Field comments are required
+/home/alumno/Escritorio/Shopping/src/java/sonphse/mobile/MobileSearchUserError.java:18:	CommentRequired:	Public method and constructor comments are required
+/home/alumno/Escritorio/Shopping/src/java/sonphse/mobile/MobileSearchUserError.java:21:	CommentRequired:	Public method and constructor comments are required
+/home/alumno/Escritorio/Shopping/src/java/sonphse/mobile/MobileUpdateError.java:15:	CommentRequired:	Field comments are required
+/home/alumno/Escritorio/Shopping/src/java/sonphse/mobile/MobileUpdateError.java:16:	CommentRequired:	Field comments are required
+/home/alumno/Escritorio/Shopping/src/java/sonphse/mobile/MobileUpdateError.java:17:	CommentRequired:	Field comments are required
+/home/alumno/Escritorio/Shopping/src/java/sonphse/mobile/MobileUpdateError.java:19:	CommentRequired:	Public method and constructor comments are required
+/home/alumno/Escritorio/Shopping/src/java/sonphse/mobile/MobileUpdateError.java:22:	CommentRequired:	Public method and constructor comments are required
+/home/alumno/Escritorio/Shopping/src/java/sonphse/order/OrderDAO.java:17:	UnusedImports:	Avoid unused imports such as 'sonphse.mobile.MobileDAO'
+/home/alumno/Escritorio/Shopping/src/java/sonphse/order/OrderDAO.java:18:	UnusedImports:	Avoid unused imports such as 'sonphse.mobile.MobileDTO'
+/home/alumno/Escritorio/Shopping/src/java/sonphse/order/OrderDAO.java:27:	CommentRequired:	Field comments are required
+/home/alumno/Escritorio/Shopping/src/java/sonphse/order/OrderDTO.java:16:	CommentRequired:	Field comments are required
+/home/alumno/Escritorio/Shopping/src/java/sonphse/order/OrderDTO.java:17:	CommentRequired:	Field comments are required
+/home/alumno/Escritorio/Shopping/src/java/sonphse/order/OrderDTO.java:18:	CommentRequired:	Field comments are required
+/home/alumno/Escritorio/Shopping/src/java/sonphse/order/OrderDTO.java:20:	CommentRequired:	Public method and constructor comments are required
+/home/alumno/Escritorio/Shopping/src/java/sonphse/order/OrderDTO.java:23:	CommentRequired:	Public method and constructor comments are required
+/home/alumno/Escritorio/Shopping/src/java/sonphse/order/OrderInsertError.java:15:	CommentRequired:	Field comments are required
+/home/alumno/Escritorio/Shopping/src/java/sonphse/order/OrderInsertError.java:17:	CommentRequired:	Public method and constructor comments are required
+/home/alumno/Escritorio/Shopping/src/java/sonphse/order/OrderInsertError.java:20:	CommentRequired:	Public method and constructor comments are required
+/home/alumno/Escritorio/Shopping/src/java/sonphse/orderdetail/OrderDetailDAO.java:11:	UnusedImports:	Avoid unused imports such as 'java.sql.ResultSet'
+/home/alumno/Escritorio/Shopping/src/java/sonphse/orderdetail/OrderDetailDAO.java:18:	UnusedImports:	Avoid unused imports such as 'sonphse.order.OrderDAO'
+/home/alumno/Escritorio/Shopping/src/java/sonphse/orderdetail/OrderDetailDAO.java:28:	CommentRequired:	Public method and constructor comments are required
+/home/alumno/Escritorio/Shopping/src/java/sonphse/orderdetail/OrderDetailDTO.java:15:	CommentRequired:	Field comments are required
+/home/alumno/Escritorio/Shopping/src/java/sonphse/orderdetail/OrderDetailDTO.java:16:	CommentRequired:	Field comments are required
+/home/alumno/Escritorio/Shopping/src/java/sonphse/orderdetail/OrderDetailDTO.java:17:	CommentRequired:	Field comments are required
+/home/alumno/Escritorio/Shopping/src/java/sonphse/orderdetail/OrderDetailDTO.java:18:	CommentRequired:	Field comments are required
+/home/alumno/Escritorio/Shopping/src/java/sonphse/orderdetail/OrderDetailDTO.java:20:	CommentRequired:	Public method and constructor comments are required
+/home/alumno/Escritorio/Shopping/src/java/sonphse/orderdetail/OrderDetailDTO.java:23:	CommentRequired:	Public method and constructor comments are required
+/home/alumno/Escritorio/Shopping/src/java/sonphse/servlets/AddToCartServlet.java:30:	CommentRequired:	Field comments are required
+/home/alumno/Escritorio/Shopping/src/java/sonphse/servlets/InsertMobileServlet.java:30:	CommentRequired:	Field comments are required
+/home/alumno/Escritorio/Shopping/src/java/sonphse/servlets/InsertMobileServlet.java:32:	CommentRequired:	Field comments are required
+/home/alumno/Escritorio/Shopping/src/java/sonphse/servlets/LoginServlet.java:30:	CommentRequired:	Field comments are required
+/home/alumno/Escritorio/Shopping/src/java/sonphse/servlets/LoginServlet.java:31:	CommentRequired:	Field comments are required
+/home/alumno/Escritorio/Shopping/src/java/sonphse/servlets/LoginServlet.java:32:	CommentRequired:	Field comments are required
+/home/alumno/Escritorio/Shopping/src/java/sonphse/servlets/LogoutServlet.java:23:	CommentRequired:	Field comments are required
+/home/alumno/Escritorio/Shopping/src/java/sonphse/servlets/OrderProductsServlet.java:29:	UnusedImports:	Avoid unused imports such as 'sonphse.orderdetail.OrderDetailDAO'
+/home/alumno/Escritorio/Shopping/src/java/sonphse/servlets/OrderProductsServlet.java:39:	CommentRequired:	Field comments are required
+/home/alumno/Escritorio/Shopping/src/java/sonphse/servlets/OrderProductsServlet.java:40:	CommentRequired:	Field comments are required
+/home/alumno/Escritorio/Shopping/src/java/sonphse/servlets/OrderProductsServlet.java:41:	CommentRequired:	Field comments are required
+/home/alumno/Escritorio/Shopping/src/java/sonphse/servlets/OrderServlet.java:24:	CommentRequired:	Field comments are required
+/home/alumno/Escritorio/Shopping/src/java/sonphse/servlets/OrderServlet.java:25:	CommentRequired:	Field comments are required
+/home/alumno/Escritorio/Shopping/src/java/sonphse/servlets/OrderServlet.java:26:	CommentRequired:	Field comments are required
+/home/alumno/Escritorio/Shopping/src/java/sonphse/servlets/OrderServlet.java:27:	CommentRequired:	Field comments are required
+/home/alumno/Escritorio/Shopping/src/java/sonphse/servlets/OrderServlet.java:28:	CommentRequired:	Field comments are required
+/home/alumno/Escritorio/Shopping/src/java/sonphse/servlets/OrderServlet.java:29:	CommentRequired:	Field comments are required
+/home/alumno/Escritorio/Shopping/src/java/sonphse/servlets/OrderServlet.java:30:	CommentRequired:	Field comments are required
+/home/alumno/Escritorio/Shopping/src/java/sonphse/servlets/OrderServlet.java:31:	CommentRequired:	Field comments are required
+/home/alumno/Escritorio/Shopping/src/java/sonphse/servlets/OrderServlet.java:32:	CommentRequired:	Field comments are required
+/home/alumno/Escritorio/Shopping/src/java/sonphse/servlets/OrderServlet.java:33:	CommentRequired:	Field comments are required
+/home/alumno/Escritorio/Shopping/src/java/sonphse/servlets/OrderServlet.java:34:	CommentRequired:	Field comments are required
+/home/alumno/Escritorio/Shopping/src/java/sonphse/servlets/OrderServlet.java:35:	CommentRequired:	Field comments are required
+/home/alumno/Escritorio/Shopping/src/java/sonphse/servlets/OrderServlet.java:36:	CommentRequired:	Field comments are required
+/home/alumno/Escritorio/Shopping/src/java/sonphse/servlets/OrderServlet.java:38:	CommentRequired:	Field comments are required
+/home/alumno/Escritorio/Shopping/src/java/sonphse/servlets/RemoveFromCartServlet.java:10:	UnusedImports:	Avoid unused imports such as 'java.util.Arrays'
+/home/alumno/Escritorio/Shopping/src/java/sonphse/servlets/SearchServlet.java:26:	CommentRequired:	Field comments are required
+/home/alumno/Escritorio/Shopping/src/java/sonphse/servlets/SearchServlet.java:27:	CommentRequired:	Field comments are required
+/home/alumno/Escritorio/Shopping/src/java/sonphse/servlets/SearchServlet.java:48:	CollapsibleIfStatements:	These nested if statements could be combined
+/home/alumno/Escritorio/Shopping/src/java/sonphse/servlets/SearchStaffServlet.java:31:	CommentRequired:	Field comments are required
+/home/alumno/Escritorio/Shopping/src/java/sonphse/servlets/SearchStaffServlet.java:32:	CommentRequired:	Field comments are required
+/home/alumno/Escritorio/Shopping/src/java/sonphse/servlets/SearchStaffServlet.java:33:	CommentRequired:	Field comments are required
+/home/alumno/Escritorio/Shopping/src/java/sonphse/servlets/SearchStaffServlet.java:62:	CollapsibleIfStatements:	These nested if statements could be combined
+/home/alumno/Escritorio/Shopping/src/java/sonphse/servlets/SearchUserServlet.java:30:	CommentRequired:	Field comments are required
+/home/alumno/Escritorio/Shopping/src/java/sonphse/servlets/SearchUserServlet.java:56:	CollapsibleIfStatements:	These nested if statements could be combined
+/home/alumno/Escritorio/Shopping/src/java/sonphse/servlets/StartupServlet.java:26:	CommentRequired:	Field comments are required
+/home/alumno/Escritorio/Shopping/src/java/sonphse/servlets/StartupServlet.java:27:	CommentRequired:	Field comments are required
+/home/alumno/Escritorio/Shopping/src/java/sonphse/servlets/StartupServlet.java:28:	CommentRequired:	Field comments are required
+/home/alumno/Escritorio/Shopping/src/java/sonphse/servlets/UpdateMobileServlet.java:30:	CommentRequired:	Field comments are required
+/home/alumno/Escritorio/Shopping/src/java/sonphse/servlets/UpdateMobileServlet.java:32:	CommentRequired:	Field comments are required
+/home/alumno/Escritorio/Shopping/src/java/sonphse/user/LoginError.java:15:	CommentRequired:	Field comments are required
+/home/alumno/Escritorio/Shopping/src/java/sonphse/user/LoginError.java:16:	CommentRequired:	Field comments are required
+/home/alumno/Escritorio/Shopping/src/java/sonphse/user/LoginError.java:18:	CommentRequired:	Public method and constructor comments are required
+/home/alumno/Escritorio/Shopping/src/java/sonphse/user/LoginError.java:21:	CommentRequired:	Public method and constructor comments are required
+/home/alumno/Escritorio/Shopping/src/java/sonphse/user/UserDAO.java:22:	CommentRequired:	Public method and constructor comments are required
+/home/alumno/Escritorio/Shopping/src/java/sonphse/user/UserDTO.java:15:	CommentRequired:	Field comments are required
+/home/alumno/Escritorio/Shopping/src/java/sonphse/user/UserDTO.java:16:	CommentRequired:	Field comments are required
+/home/alumno/Escritorio/Shopping/src/java/sonphse/user/UserDTO.java:17:	CommentRequired:	Field comments are required
+/home/alumno/Escritorio/Shopping/src/java/sonphse/user/UserDTO.java:18:	CommentRequired:	Field comments are required
+/home/alumno/Escritorio/Shopping/src/java/sonphse/user/UserDTO.java:20:	CommentRequired:	Public method and constructor comments are required
+/home/alumno/Escritorio/Shopping/src/java/sonphse/user/UserDTO.java:23:	CommentRequired:	Public method and constructor comments are required
+/home/alumno/Escritorio/Shopping/src/java/sonphse/utils/DBUtils.java:21:	CommentRequired:	Public method and constructor comments are required
